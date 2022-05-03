@@ -1,0 +1,15 @@
+{
+  "name": "scrumexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "prompt-sync": "^4.2.0"
+  }
+}

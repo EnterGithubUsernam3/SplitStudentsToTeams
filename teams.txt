@@ -1,0 +1,24 @@
+
+ Team1 : 
+ 	Team member : Linda Tripi from : Python and her/his role in the team is :Scrum Master 
+ 	Team member : Danai Batsi from : Python and her/his role in the team is :UX Developer 
+ 	Team member : Nena Mendi from : Javascript and her/his role in the team is :Tester 
+ 	Team member : Swtiris Kwstakis from : Python and her/his role in the team is :Designer 
+ 	Team member : Dimitris Kahrimanis from : Python and her/his role in the team is :Scrum Master
+ Team2 : 
+ 	Team member : Eli Papadopoulou from : Javascript and her/his role in the team is :UX Developer 
+ 	Team member : Andreas Mpompos from : Javascript and her/his role in the team is :Tester 
+ 	Team member : Gewrgia Mpitska from : Javascript and her/his role in the team is :Designer 
+ 	Team member : Aggelos Spyropoulos from : Python and her/his role in the team is :Scrum Master 
+ 	Team member : Elissaos Dimitriou from : Javascript and her/his role in the team is :UX Developer
+ Team3 : 
+ 	Team member : Dimitris Gewrgiou from : Javascript and her/his role in the team is :Tester 
+ 	Team member : Vassia Koutsilianou from : Python and her/his role in the team is :Designer 
+ 	Team member : Yiorgos Pavlou from : Javascript and her/his role in the team is :Scrum Master 
+ 	Team member : Olga Koutroumanou from : Python and her/his role in the team is :UX Developer 
+ 	Team member : Giwta Negga from : Javascript and her/his role in the team is :Tester
+ Team4 : 
+ 	Team member : Giwta Papadimitriou from : Python and her/his role in the team is :Designer 
+ 	Team member : Evaggelia Tzioli from : Javascript and her/his role in the team is :Scrum Master 
+ 	Team member : Dimitra Panouklia from : Javascript and her/his role in the team is :UX Developer 
+ 	Team member : Timos Kalavrezos from : Javascript and her/his role in the team is :Tester
